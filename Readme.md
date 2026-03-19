@@ -1,4 +1,6 @@
 Sistema de Visualização Dinâmica e Geração de Gráficos Multibase
+
+
 Esta aplicação é uma engine de visualização de dados projetada para abstrair a complexidade da renderização gráfica a partir de fontes de dados heterogêneas. O sistema permite a ingestão, transformação e plotagem de variáveis estatísticas em múltiplos formatos visuais, facilitando a análise exploratória e a extração de insights.
 
 Arquitetura de Ingestão de Dados
